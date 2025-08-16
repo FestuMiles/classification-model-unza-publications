@@ -10,4 +10,5 @@ The objective is to:
   * Automate the classification of UNZA faculty research publications into Vision 2030 sector categories.
   * Improve accessibility and searchability of research outputs by sector.
   * Enable faster and more consistent reporting for stakeholders.
+    
 Success in real-world terms means stakeholders can easily retrieve research outputs relevant to specific Vision 2030 sectors making the classification process faster, more consistent, and requires minimal manual intervention.
