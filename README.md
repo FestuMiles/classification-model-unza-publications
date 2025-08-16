@@ -12,3 +12,19 @@ The objective is to:
   * Enable faster and more consistent reporting for stakeholders.
     
 Success in real-world terms means stakeholders can easily retrieve research outputs relevant to specific Vision 2030 sectors making the classification process faster, more consistent, and requires minimal manual intervention.
+
+##Data Mining Goals
+* We will collect, understand the data of UNZA faculty member’s publications
+* We prepare the training and testing data which includes include cleaning, transforming, integrating, and formatting data for modeling.
+* We will build a supervised machine learning classification model that:
+ * Takes a publication title as input.
+ *	Predicts the most likely Vision 2030 sector category (e.g., Agriculture, Energy, Health, Education, etc.).
+ * Is trained and evaluated using labeled publication title data from UNZA faculty research.
+* We will assesses the quality and effectiveness of the model ensuring the results achieve the business objectives
+
+##Initial Project Success Criteria
+* *Model Performance*: The classification model should achieve at least 80% accuracy on unseen test data.
+* *Usability*: The system should output results in a clear and interpretable format for non-technical users.
+* *Practical Value*: The automated classification should reduce the manual categorization time by at least 50% compared to the current process.
+
+
